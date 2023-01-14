@@ -1,7 +1,7 @@
 # FCFS_OS
 Implementation FCFS in C code to find out Waiting Time (WT) and Turn Around Time (TAT)
 
-# Download
+# Interface
 1. Click the file fcfs.c
 2. Run any C compiler (Made by CodeBlocks)
 3. Should works fine!
