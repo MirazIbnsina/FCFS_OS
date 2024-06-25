@@ -29,7 +29,3 @@ b. Calculating average
     
 
 
-
-# Contact
-Any query or customize project?
-- mirazibnsina@outlook.com
